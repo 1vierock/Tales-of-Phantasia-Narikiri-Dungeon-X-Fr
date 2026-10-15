@@ -1,9 +1,6 @@
 # Tales of Phantasia : Narikiri Dungeon X Francais
 
 
-# Tales of Phantasia : Narikiri Dungeon X Francais
-
-
 ## Project Status
 
 * 🟢 Translation: 50%
