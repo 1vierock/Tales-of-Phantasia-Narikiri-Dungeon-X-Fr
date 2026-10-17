@@ -9,15 +9,13 @@
 * 🔴 Testing: 
 
 ## About
-<p align="center">
-  <img src="screenshot/1.jpg" width="45%">
-  <img src="screenshot/2.jpg" width="45%">
-</p>
+## Screenshots
 
-<p align="center">
-  <img src="screenshot/3.jpg" width="45%">
-  <img src="screenshot/4.jpg" width="45%">
-</p>
+![Capture 1](screenshot/1.jpg)
+![Capture 2](screenshot/2.jpg)
+
+![Capture 3](screenshot/3.jpg)
+![Capture 4](screenshot/4.jpg)
 Voici une traduction du jeu en fr de la version PSP.
 
 ## Support
