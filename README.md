@@ -16,7 +16,7 @@
 
 ![Capture 3](screenshot/3.jpg)
 ![Capture 4](screenshot/4.jpg)
-Voici une traduction du jeu en fr de la version PSP.
+
 
 ## Support
 
@@ -27,7 +27,7 @@ Si vous voulez me supporter !:
 </a>
 
 ## Features
-
+Voici une traduction du jeu en fr de la version PSP.
 
 * XDelta translation patch
 
