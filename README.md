@@ -3,7 +3,7 @@
 
 ## Project Status
 
-* 🟢 Translation: 50%
+* 🟢 Translation: 100%
 * 🟡 Hacking: 100%
 * 🟢 Graphics: 0%
 * 🔴 Testing: 
