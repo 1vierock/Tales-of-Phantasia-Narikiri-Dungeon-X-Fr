@@ -11,12 +11,16 @@
 ## About
 ## Screenshots
 
-![Capture 1](screenshot/1.jpg)
-![Capture 2](screenshot/2.jpg)
+## Screenshots
 
-![Capture 3](screenshot/3.jpg)
-![Capture 4](screenshot/4.jpg)
-
+<p align="center">
+  <img src="./1.jpg" width="48%" alt="Screenshot 1">
+  <img src="./2.jpg" width="48%" alt="Screenshot 2">
+  <img src="./3.jpg" width="48%" alt="Screenshot 3">
+  <img src="./4.jpg" width="48%" alt="Screenshot 4">
+  <img src="./5.jpg" width="48%" alt="Screenshot 5">
+  <img src="./5.jpg" width="48%" alt="Screenshot 6">
+</p>
 
 ## Support
 
